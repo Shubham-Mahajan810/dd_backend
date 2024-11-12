@@ -1,0 +1,5 @@
+{
+     "editor.fontSize": 20,
+     "editor.tabSize": 6,
+     "java.compile.nullAnalysis.mode": "disabled"
+}
